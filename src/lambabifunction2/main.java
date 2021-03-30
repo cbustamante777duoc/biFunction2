@@ -32,6 +32,7 @@ public class main {
         for (Double salario : salarioAumento) {
             System.out.println(salario);
         }
+      //ver
     }
     
 }

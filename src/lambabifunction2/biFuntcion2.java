@@ -13,6 +13,8 @@ public class biFuntcion2 {
     * recibe Double(sueldo) y Double(porcetaje)
     */
     
+    //ver
+    
     public List<Double> cal(BiFunction<Double,Double,Double> bi, 
             List<Empleado>ListaEmpleado,Double incremento){
         
